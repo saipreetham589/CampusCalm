@@ -37,7 +37,7 @@ Watch our live demo here: [📺 YouTube Demo](https://www.youtube.com/watch?v=cg
 
 ## 📊 Slide Deck / Pitch
 
-📂 View the recorded pitch and slides here: [📁 Google Drive – Pitch PPT with Timer](https://drive.google.com/drive/folders/13fmKF_0tIGwCYWcN4opKI6RfUgGA_z-1?usp=sharing)
+📂 View the recorded pitch and slides here: [📁 Google Drive – Pitch PPT](https://drive.google.com/drive/folders/13fmKF_0tIGwCYWcN4opKI6RfUgGA_z-1?usp=sharing)
 
 ---
 
@@ -51,7 +51,7 @@ Watch our live demo here: [📺 YouTube Demo](https://www.youtube.com/watch?v=cg
 
 ---
 
-## 🐰 Meet Loona – Your Campus AI Companion
+## 🐰 Meet Loona – Campus AI Companion
 
 Loona is a real-time **voice-based conversational agent**, built using Azure OpenAI and Cognitive Services. It acts as a virtual mental health assistant for students by:
 
