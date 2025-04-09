@@ -1,0 +1,26 @@
+.voice-waveform-container {
+    display: flex;
+    gap: 6px;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .waveform-bar {
+    width: 6px;
+    height: 20px;
+    background-color: #3b82f6;
+    border-radius: 4px;
+    animation: pulse 1s infinite ease-in-out;
+  }
+  
+  .bar1 { animation-delay: 0s; }
+  .bar2 { animation-delay: 0.1s; }
+  .bar3 { animation-delay: 0.2s; }
+  .bar4 { animation-delay: 0.3s; }
+  .bar5 { animation-delay: 0.4s; }
+  
+  @keyframes pulse {
+    0%, 100% { transform: scaleY(1); }
+    50% { transform: scaleY(2); }
+  }
+  
