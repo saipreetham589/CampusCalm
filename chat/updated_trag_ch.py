@@ -956,9 +956,9 @@ class IntegratedMentalHealthBot:
         # Email alert configuration with better defaults
         self.smtp_server = os.environ.get("SMTP_SERVER", "smtp.gmail.com")
         self.smtp_port = int(os.environ.get("SMTP_PORT", "587"))
-        self.sender_email = os.environ.get("SENDER_EMAIL", "rohit126.rt@gmail.com")
+        self.sender_email = os.environ.get("SENDER_EMAIL", "test@gmail.com")
         self.sender_password = os.environ.get("SENDER_PASSWORD", "")
-        self.admin_email = os.environ.get("ADMIN_EMAIL", "kashyaparun25@gmail.com")
+        self.admin_email = os.environ.get("ADMIN_EMAIL", "test2@gmail.com")
         
         # Print email configuration at startup
         print("📧 Email alert configuration:")
